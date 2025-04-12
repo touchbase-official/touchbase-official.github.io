@@ -4,11 +4,11 @@
     "details": [
       {
         "appID": "RYGMZZJ6M5.site.eifer.app.Touchbase",
-        "paths": [ "/eifer.site/touchbase/*" ]
+        "paths": [ "/touchbase/*" ]
       },
       {
         "appID": "RYGMZZJ6M5.site.eifer.app.Touchbase.Clip",
-        "paths": [ "/eifer.site/touchbase/*" ]
+        "paths": [ "/touchbase/*" ]
       }
     ]
   }
